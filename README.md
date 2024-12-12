@@ -10,5 +10,5 @@ Adds:
 - Expanded Storage
 Update:
 - Fabric API
-### Note:
+#### Note:
 delete the previous Fabric API version
