@@ -7,9 +7,9 @@ Adds:
 - Trade Enchantment Display
 - Better Crafting
 - Elevatorid
-- Expanded Storage
+- Expanded Storage  
 Update:
-- Fabric API
+- Fabric API  
 Remove:
 - Vein Mining
 ##### Note:
