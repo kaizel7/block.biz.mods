@@ -10,5 +10,7 @@ Adds:
 - Expanded Storage
 Update:
 - Fabric API
-#### Note:
+Remove:
+- Vein Mining
+##### Note:
 delete the previous Fabric API version
