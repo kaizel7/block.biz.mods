@@ -1,5 +1,6 @@
 # Minecraft Mods for block.biz.id
 The server is running `Minecraft Java 1.21.1` with `Fabric 0.16.9`.
+The new modpack will be in `1.20.1`
 
 ## Changelogs
 ### Dec 12th, 24
